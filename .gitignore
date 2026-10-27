@@ -1,0 +1,27 @@
+/.idea/
+/.vscode/
+/node_modules/
+/dist/
+/.local/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+# Local assistant instructions and tool configuration are not project deliverables.
+AGENTS.md
+AGENT.md
+agents.md
+agent.md
+.codex/
+.agents/
+.claude/
+.cursor/
+.mcp.json
+# Editor and temporary files.
+*.bak
+*.tmp
+*~
+Thumbs.db
